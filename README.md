@@ -12,6 +12,7 @@ This project performs sentiment analysis on Twitter data using Machine Learning 
 ## Files in this Repository
 - twitter_sentiment_analysis.ipynb : Model training and saving
 - app.py : Streamlit app for sentiment prediction
+- app2.py is a Streamlit application for Twitter sentiment analysis  for CSV-based sentiment prediction and visualization.
 - trained_model.sav : Saved trained model
 - vectorize.sav : Saved TF-IDF vectorizer
 - requirements.txt : Required Python libraries
